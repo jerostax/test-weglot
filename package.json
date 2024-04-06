@@ -6,7 +6,7 @@
   "license": "UNLICENSED",
   "scripts": {
     "start": "node src/index.js",
-    "test": "echo 'Not implemented yet';"
+    "test": "jest"
   },
   "devDependencies": {
     "jest": "^29.7.0"
